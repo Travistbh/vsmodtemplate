@@ -1,0 +1,62 @@
+{
+    "code": "bullet",
+    "class": "EntityProjectile",
+    "variantgroups": [
+        {
+            "code": "material",
+            "states": [
+                "lead"
+            ]
+        }
+    ],
+    "hitboxSize": {
+        "x": 0.125,
+        "y": 0.125
+    },
+    "client": {
+        "size": 0.75,
+        "renderer": "Shape",
+        "shapeByType": {
+            "bullet-lead": {
+                "base": "muskets:entity/bullet"
+            },
+            "*": {
+                "base": "muskets:entity/bullet"
+            }
+        },
+        "texturesByType": {
+            "bullet-lead": {},
+            "*": {
+                "material": {
+                    "base": "block/metal/ingot/{material}"
+                }
+            }
+        },
+        "behaviors": [
+            {
+                "code": "passivephysics",
+                "groundDragFactor": 1,
+                "airDragFactor": 0.25,
+                "gravityFactor": 0.75
+            },
+            {
+                "code": "interpolateposition"
+            }
+        ]
+    },
+    "server": {
+        "behaviors": [
+            {
+                "code": "passivephysics",
+                "groundDragFactor": 1,
+                "airDragFactor": 0.25,
+                "gravityFactor": 0.75
+            },
+            {
+                "code": "despawn",
+                "minSeconds": 600
+            }
+        ]
+    },
+    "sounds": {}
+}

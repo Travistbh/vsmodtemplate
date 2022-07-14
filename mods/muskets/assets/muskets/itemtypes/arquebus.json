@@ -1,0 +1,11 @@
+{
+    "code": "arquebus",
+    "creativeinventory": {
+        "general": [
+            "*"
+        ]
+    },
+    "texture": {
+        "base": "muskets:item/arquebus"
+    }
+}
