@@ -1,0 +1,102 @@
+{
+  "code": "arquebus",
+  "tool":  "firearm",
+
+  "creativeinventory": {
+    "general": [ "*" ],
+    "items": [ "*" ],
+    "tools": [ "*" ],
+    "firearms": [ "*" ]
+  },
+  "shape": {
+    "base": "item/arquebus"
+  },
+  "guiTransform": {
+    "translation": {
+      "x": -5,
+      "y": 24,
+      "z": 0
+    },
+    "rotation": {
+      "x": -180,
+      "y": 4,
+      "z": 39
+    },
+    "origin": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": 2.6
+  },
+  "fpHandTransform": {
+    "translation": {
+      "x": -0.7,
+      "y": 0.5,
+      "z": 1.5
+    },
+    "rotation": {
+      "x": -85,
+      "y": 85,
+      "z": 83
+    },
+    "origin": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": 2.62
+  },
+  "tpHandTransform": {
+    "translation": {
+      "x": -0.2,
+      "y": -0.1,
+      "z": 0.5
+    },
+    "rotation": {
+      "x": -2,
+      "y": -10,
+      "z": -7
+    },
+    "origin": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": 1.73
+  },
+  "groundTransform": {
+    "translation": {
+      "x": 0,
+      "y": 0.02,
+      "z": 0
+    },
+    "rotation": {
+      "x": -82,
+      "y": 52,
+      "z": 2
+    },
+    "origin": {
+      "x": 0.5,
+      "y": 0,
+      "z": 0.5
+    },
+    "scale": 4.15
+  },
+  "attributes": {
+    "toolrackTransform": {
+      "rotation": {
+        "x": 90,
+        "y": 1,
+        "z": -1
+      },
+      "translation": {
+        "x": -0.2,
+        "y": 0.05,
+        "z": 0.5
+      },
+      "scale": 1
+    }
+  }
+
+}

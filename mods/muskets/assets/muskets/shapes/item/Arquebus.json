@@ -8,11 +8,11 @@
 	"textureSizes": {
 	},
 	"textures": {
-		"vs_iron_1": "C:/Users/Alexa/Desktop/VS Model/texture/vs_iron_1",
-		"vs_darkiron_1": "C:/Users/Alexa/Desktop/VS Model/texture/vs_darkiron_1",
-		"vs_agedwood": "C:/Users/Alexa/Desktop/VS Model/texture/vs_agedwood",
-		"vs_bronze": "C:/Users/Alexa/Desktop/VS Model/texture/vs_bronze",
-		"vs-shinybrass": "C:/Users/Alexa/Desktop/VS Model/texture/vs-shinybrass"
+		"vs_iron_1": "item/vs_iron_1",
+		"vs_darkiron_1": "item/vs_darkiron_1",
+		"vs_agedwood": "item/vs_agedwood",
+		"vs_bronze": "item/vs_bronze",
+		"vs-shinybrass": "item/vs-shinybrass"
 	},
 	"elements": [
 		{

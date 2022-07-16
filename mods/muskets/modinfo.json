@@ -1,10 +1,13 @@
 {
-  "type": "code",
+  "type": "content",
   "modid": "muskets",
-  "name": "muskets",
-  "authors": ["NeoUSMC"],
-  "description": "To be added",
-  "version": "1.0.0",
+  "name": "Muskets",
+  "version": "0.1.0",
+  
+  "authors": [ "NeoUSMC" ],
+  "description": "Expanding Weapons with some simple muskets",
+  
+  
   "dependencies": {
     "game": "1.16.5"
   }

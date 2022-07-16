@@ -59,7 +59,7 @@
         }
     },
     "entityClassByType": {
-        "toolmold-burned-*": "BulletMold"
+        "toolmold-burned-*": "block/bulletmold"
     },
     "combustiblePropsByType": {
         "toolmold-raw-*": {
@@ -103,7 +103,7 @@
         }
     },
     "shape": {
-        "base": "muskets:block/{bulletmold",
+        "base": "muskets:block/bulletmold",
         "rotateY": 90
     },
     "sounds": {
