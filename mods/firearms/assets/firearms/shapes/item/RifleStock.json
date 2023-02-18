@@ -1,0 +1,158 @@
+{
+	"editor": {
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textureSizes": {
+	},
+	"textures": {
+	},
+	"elements": [
+		{
+			"name": "Buttstock",
+			"from": [ 0.5, 0.0, 6.9 ], 
+			"to": [ 3.0, 0.5, 8.5 ], 
+			"rotationOrigin": [ 0.5, 0.0, 6.9 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 2.5, 0.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 1.5, 0.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 2.5, 0.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 1.5, 0.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 2.5, 1.5 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 2.5, 1.5 ] }
+			}
+		},
+		{
+			"name": "Buttstock2",
+			"from": [ 3.0, 0.0, 7.0 ], 
+			"to": [ 5.0, 0.5, 7.6 ], 
+			"rotationOrigin": [ 3.0, 0.0, 7.0 ],
+			"rotationY": -12.0,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 2.0, 0.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 2.0, 0.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 2.0, 0.5 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 2.0, 0.5 ] }
+			}
+		},
+		{
+			"name": "Buttstock3",
+			"from": [ 4.8, 0.0, 7.4 ], 
+			"to": [ 6.8, 0.5, 8.0 ], 
+			"rotationOrigin": [ 4.8, 0.0, 7.4 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 2.0, 0.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 2.0, 0.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 2.0, 0.5 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 2.0, 0.5 ] }
+			}
+		},
+		{
+			"name": "Frontgrip",
+			"from": [ 6.7, 0.0, 7.4 ], 
+			"to": [ 14.7, 0.1, 8.1 ], 
+			"rotationOrigin": [ 6.7, 0.0, 7.4 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 8.0, 0.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 8.0, 0.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 8.0, 0.5 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 8.0, 0.5 ] }
+			}
+		},
+		{
+			"name": "Buttstock5",
+			"from": [ 0.8, 0.0, 7.8 ], 
+			"to": [ 4.8, 0.5, 8.4 ], 
+			"rotationOrigin": [ 0.8, 0.0, 7.8 ],
+			"rotationY": 5.5,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 0.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 0.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 0.5 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 0.5 ] }
+			}
+		},
+		{
+			"name": "Buttstock6",
+			"from": [ 2.9, 0.0, 7.9 ], 
+			"to": [ 6.9, 0.5, 8.5 ], 
+			"rotationOrigin": [ 2.9, 0.0, 7.9 ],
+			"rotationY": 5.5,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 0.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 0.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 0.5 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 4.0, 0.5 ] }
+			}
+		},
+		{
+			"name": "Frontgrip7",
+			"from": [ 6.7, 0.4, 7.4 ], 
+			"to": [ 14.7, 0.5, 8.1 ], 
+			"rotationOrigin": [ 6.7, 0.4, 7.4 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 8.0, 0.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 8.0, 0.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 8.0, 0.5 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 8.0, 0.5 ] }
+			}
+		},
+		{
+			"name": "Frontgrip8",
+			"from": [ 6.7, 0.0, 8.1 ], 
+			"to": [ 14.7, 0.1, 8.6 ], 
+			"rotationOrigin": [ 6.7, 0.0, 8.1 ],
+			"rotationX": -90.0,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 8.0, 0.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 8.0, 0.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 8.0, 0.5 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 8.0, 0.5 ] }
+			}
+		},
+		{
+			"name": "Buttstock9",
+			"from": [ 0.2, 0.0, 7.3 ], 
+			"to": [ 0.7, 0.5, 7.8 ], 
+			"rotationOrigin": [ 0.2, -0.1, 7.3 ],
+			"rotationY": 45.0,
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+			}
+		},
+		{
+			"name": "Buttstock10",
+			"from": [ 0.2, 0.0, 7.3 ], 
+			"to": [ 0.7, 0.5, 8.5 ], 
+			"rotationOrigin": [ 0.2, -0.1, 7.3 ],
+			"faces": {
+				"north": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"east": { "texture": "#null", "uv": [ 0.0, 0.0, 1.0, 0.5 ] },
+				"south": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+				"west": { "texture": "#null", "uv": [ 0.0, 0.0, 1.0, 0.5 ] },
+				"up": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 1.0 ] },
+				"down": { "texture": "#null", "uv": [ 0.0, 0.0, 0.5, 1.0 ] }
+			}
+		}
+	]}

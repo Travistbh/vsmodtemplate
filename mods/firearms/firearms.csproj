@@ -66,8 +66,34 @@
     <Content Include="modinfo.json" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="assets\" />
+    <Folder Include="assets\firearms\shapes\block\" />
+    <Folder Include="assets\firearms\shapes\entity\" />
     <Folder Include="src\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\firearms\shapes\item\Arquebus.json" />
+    <None Include="assets\firearms\shapes\item\Arquebus2.json" />
+    <None Include="assets\firearms\shapes\item\ArquebusBarrel.json" />
+    <None Include="assets\firearms\shapes\item\Blunderbuss.json" />
+    <None Include="assets\firearms\shapes\item\BlunderbussBarrel.json" />
+    <None Include="assets\firearms\shapes\item\Boomstick.json" />
+    <None Include="assets\firearms\shapes\item\Brown Bess.json" />
+    <None Include="assets\firearms\shapes\item\DuelistFlintlock.json" />
+    <None Include="assets\firearms\shapes\item\Dwarven Crossbow.json" />
+    <None Include="assets\firearms\shapes\item\Experimental Rifle.json" />
+    <None Include="assets\firearms\shapes\item\Flintlock_Pistol.json" />
+    <None Include="assets\firearms\shapes\item\Hand Cannon.json" />
+    <None Include="assets\firearms\shapes\item\Heavy Pistol.json" />
+    <None Include="assets\firearms\shapes\item\Jezzail.json" />
+    <None Include="assets\firearms\shapes\item\Musket2.json" />
+    <None Include="assets\firearms\shapes\item\PIstol WIP.json" />
+    <None Include="assets\firearms\shapes\item\Pistol.json" />
+    <None Include="assets\firearms\shapes\item\Puckle Gun.json" />
+    <None Include="assets\firearms\shapes\item\Repeating Rifle.json" />
+    <None Include="assets\firearms\shapes\item\Rifle.json" />
+    <None Include="assets\firearms\shapes\item\RifleStock.json" />
+    <None Include="assets\firearms\shapes\item\Royal_Flintlock.json" />
+    <None Include="assets\firearms\shapes\item\WoodsmansFlintlock.json" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
