@@ -4,8 +4,11 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSModLauncher", "VSModLauncher.csproj", "{203DFBF1-3599-43FD-8487-E1C79C2B788F}"
 	ProjectSection(ProjectDependencies) = postProject
+		{0957ff28-68db-47fb-893c-cf7cb12dd9e8} = {0957ff28-68db-47fb-893c-cf7cb12dd9e8}
 		{8f3669fa-e286-42e9-a471-839585cff0d3} = {8f3669fa-e286-42e9-a471-839585cff0d3}
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firearms", "mods\firearms\firearms.csproj", "{0957ff28-68db-47fb-893c-cf7cb12dd9e8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "muskets", "mods\muskets\muskets.csproj", "{8f3669fa-e286-42e9-a471-839585cff0d3}"
 EndProject
@@ -28,6 +31,12 @@ Global
 {8f3669fa-e286-42e9-a471-839585cff0d3}.Release x64|Any CPU.Build.0 = Release|Any CPU
 {8f3669fa-e286-42e9-a471-839585cff0d3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 {8f3669fa-e286-42e9-a471-839585cff0d3}.Release|Any CPU.Build.0 = Release|Any CPU}
+{0957ff28-68db-47fb-893c-cf7cb12dd9e8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+{0957ff28-68db-47fb-893c-cf7cb12dd9e8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+{0957ff28-68db-47fb-893c-cf7cb12dd9e8}.Release x64|Any CPU.ActiveCfg = Release|Any CPU
+{0957ff28-68db-47fb-893c-cf7cb12dd9e8}.Release x64|Any CPU.Build.0 = Release|Any CPU
+{0957ff28-68db-47fb-893c-cf7cb12dd9e8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+{0957ff28-68db-47fb-893c-cf7cb12dd9e8}.Release|Any CPU.Build.0 = Release|Any CPU}
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
